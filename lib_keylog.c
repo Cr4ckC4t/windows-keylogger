@@ -5,7 +5,7 @@
 
 
 /*
-*   Create a seperate thread "KeyLogger" and let it run forever.
+*   Create a separate thread "KeyLogger" and let it run forever.
 */
 int StartThread(char* argv[]) {
     HANDLE hThread;
