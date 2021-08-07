@@ -1,5 +1,7 @@
 # Windows Keylogger
 
+> This keylogger is not meant to be used with stealth or for hacking. See the code comments for details. The stealthy version can be found here: https://github.com/Cr4ckC4t/clog .
+
 This keylogger captures all keystrokes in the following format: `timestamp;isReleased;keycode`.
 
 ---
